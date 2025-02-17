@@ -52,3 +52,7 @@ the watch emulator supports 30 locales
 ```
 adb shell reboot
 ```
+### Take a generated watchface preview from emulator
+```ssh
+adb pull /data/app/watchface/market/362700xxx/preview.bin d:\faces\face_preview.bin
+```
