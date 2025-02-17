@@ -1,5 +1,5 @@
 # MiWatchEmulator
-## Basic info
+## Description
 Xiaomi Watch Windows based emulator, for watchfaces and apps
 
 This emulator allows test and debug as ready watchfaces as ready app.  
