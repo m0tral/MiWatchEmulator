@@ -39,3 +39,16 @@ adb shell rm /data/app/watchface/watchface_list.json
 ```
 adb shell reboot
 ```
+
+## Additional commands
+### Set a desired system language
+```
+adb shell setprop persist.locale ru_RU
+adb shell setprop persist.locale es_ES
+```
+the watch emulator supports 30 locales
+
+### Set a desired date and time
+```
+adb shell reboot
+```
