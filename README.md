@@ -13,19 +13,19 @@ Tested under Windows 10 and 11.
 To interact with emulator system inside you should use adb command, provided in pack
 
 ### 1. Validate a list of installed watchfaces
-```
+```batchfile
 adb shell ls -l /data/app/watchface/market
 ```
 
 ### 2. Create a dir for new watchface
-```
+```shell
 adb shell mkdir /data/app/watchface/market/362700xxx
 ```
 where should be ID of watchface,
 make it unique to avoid conflicts
 
 ### 3. Upload a watchface file
-```
+```ssh
 adb push d:\faces\resource.bin /data/app/watchface/market/362700xxx
 ```
 you have to change it in watchface file header too, in any hex editor ID,  
