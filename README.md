@@ -56,3 +56,8 @@ adb shell reboot
 ```ssh
 adb pull /data/app/watchface/market/362700xxx/preview.bin d:\faces\face_preview.bin
 ```
+### Take a screenshot
+```
+dd if=/dev/fb0 of=/data/fb_dump.bin
+adb pull /data/screenshot.bin d:\faces\screenshot.bin
+```
