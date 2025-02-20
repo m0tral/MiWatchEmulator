@@ -6,6 +6,13 @@ This emulator allows test and debug as ready watchfaces as ready app.
 All is prepared, so just unpack and run.  
 Tested under Windows 10 and 11.  
 
+Ready sizes are:
+- Redmi Watch 4
+- Redmi WAtch 5
+- Xiaomi Watch S3 (S1, S2, S4 compatible)
+
+Will add Mb8Pro/Mb9Pro soon
+
 ![emulator RedmiWatch4](/img/emulator_rw4.png)
 
 ## Steps how to install a watchface manually
