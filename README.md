@@ -49,6 +49,9 @@ adb shell reboot
 
 ## Additional commands
 ### Set a desired system language
+
+It has CN by default, I switchded images on EN,  
+once switched it say stored forever, setprop command use internal Key/Value storage
 ```
 adb shell setprop persist.locale ru_RU
 adb shell setprop persist.locale es_ES
