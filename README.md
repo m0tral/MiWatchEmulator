@@ -68,3 +68,5 @@ adb pull /data/app/watchface/market/362700xxx/preview.bin d:\faces\face_preview.
 adb shell dd if=/dev/fb0 of=/data/fb_dump.bin
 adb pull /data/fb_dump.bin d:\faces\screenshot.bin
 ```
+I've created a CLI util which makes it automatically and create ready .bmp file
+[MiWatchEmuScreenshot](https://github.com/m0tral/MiWatchEmuScreenshot)
