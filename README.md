@@ -17,7 +17,7 @@ Will add Mb8Pro/Mb9Pro soon
 
 ## Steps how to install a watchface automaticall
 
-Run the emulator, and make build in [Easyface](https://github.com/m0tral/Easyface)
+Run the emulator, and make build in [Easyface](https://github.com/m0tral/Easyface)  
 Latest compiler push it automatically
 
 ## Steps how to install a watchface manually
