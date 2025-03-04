@@ -2,7 +2,7 @@
 ## Description
 Xiaomi Watch Windows based emulator, for watchfaces and apps
 
-This emulator allows test and debug as ready watchfaces as ready app.  
+This emulator allows test and debug as ready watchfaces as ready apps.  
 All is prepared, so just unpack and run.  
 Tested under Windows 10 and 11.  
 
@@ -14,6 +14,11 @@ Ready sizes are:
 Will add Mb8Pro/Mb9Pro soon
 
 ![emulator RedmiWatch4](/img/emulator_rw4.png)
+
+## Steps how to install a watchface automaticall
+
+Run the emulator, and make build in [Easyface](https://github.com/m0tral/Easyface)
+Latest compiler push it automatically
 
 ## Steps how to install a watchface manually
 
