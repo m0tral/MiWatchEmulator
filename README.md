@@ -15,7 +15,7 @@ Will add Mb8Pro/Mb9Pro soon
 
 ![emulator RedmiWatch4](/img/emulator_rw4.png)
 
-## Steps how to install a watchface automaticall
+## Steps how to install a watchface automatically 
 
 Run the emulator, and make build in [Easyface](https://github.com/m0tral/Easyface)  
 Latest compiler push it automatically
