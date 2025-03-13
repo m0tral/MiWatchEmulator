@@ -65,7 +65,7 @@ the watch emulator supports 30 locales
 
 ### Set a desired date and time
 ```
-adb shell reboot
+adb shell date -s "Jan 17 15:44:00 2025"
 ```
 ### Take a generated watchface preview from emulator
 ```ssh
